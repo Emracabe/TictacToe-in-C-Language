@@ -1,5 +1,5 @@
 # TictacToe-in-C-Language
-TicTacToe game console application
+TicTacToe game console application, made in C Language
 
 ## How to Run the Project
 1. *Download* the zip file or by *cloning* the repository.
