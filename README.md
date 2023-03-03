@@ -9,7 +9,8 @@ TicTacToe game console application, made in C Language
       ```
       
       - If you download the zip file, extract it after.
-3. Open the __main.c__ in your selected IDE like CodeBlocks or Dev C++.
+2. Open the __main.c__ in your selected IDE like CodeBlocks or Dev C++.
+3. Run the project.
 
 ## How to Play the Game
 1. Just enter the number of the box you want to fill in.
